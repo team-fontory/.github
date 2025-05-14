@@ -1,4 +1,4 @@
-# [Fontory - 손글씨 폰트 자동 생성 서비스](https://fontory.co.kr)
+# Fontory - 손글씨 폰트 자동 생성 서비스
 
 ## 프로젝트 개요
 
