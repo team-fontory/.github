@@ -4,6 +4,9 @@
 
 Fontory는 사용자의 손글씨를 입력 받아 개인화된 **TrueType 폰트(.ttf)** 파일을 자동 생성해주는 웹 기반 서비스입니다. 사용자는 지정된 **48자** 분량의 손글씨 샘플을 제출하면, Naver Clova Ai Reaserch의 [DM-Font 모델](https://github.com/clovaai/fewshot-font-generation)을 통해 해당 손글씨 스타일의 글꼴 파일을 얻을 수 있습니다.
 
+## 구조
+![Architecture Diagram](./struct.svg)
+
 ## 주요 기능 요약
 
 * **손글씨 기반 폰트 생성**: 단 몇 글자의 손글씨 샘플로 전체 글꼴을 자동 생성
