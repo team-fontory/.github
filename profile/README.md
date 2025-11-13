@@ -56,7 +56,7 @@ Fontory는 사용자의 손글씨를 입력 받아 개인화된 **TrueType 폰�
 
 ## 결과
 
-https://github.com/user-attachments/assets/59190e53-707c-47ae-8bdf-b4f3869062e7
+https://github.com/user-attachments/assets/4785edcc-b1f8-477b-9db1-f9c353adae1b
 
 ---
 
