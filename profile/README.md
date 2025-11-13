@@ -21,7 +21,7 @@ Fontory는 사용자의 손글씨를 입력 받아 개인화된 **TrueType 폰�
 * **기술 스택**: React, Vite
 * **설명**: SPA 형태의 웹 앱으로, 손글씨 업로드 UI, 진행상황 표시, 결과 다운로드 화면 제공
 
-### 2. Backend (Fontory\_SpringBoot)
+### [2. Backend (Fontory\_SpringBoot)](https://github.com/team-fontory/Fontory_SpringBoot)
 
 * **기술 스택**: Spring Boot, Spring Security (OAuth2 + JWT), Spring Data JPA, MariaDB, Redis, AWS SDK (S3, SQS)
 * **설명**:
@@ -30,7 +30,7 @@ Fontory는 사용자의 손글씨를 입력 받아 개인화된 **TrueType 폰�
   * 손글씨 이미지 업로드 → S3 저장 → SQS 메시지 발행
   * 파이프라인 처리 결과를 S3에서 조회하여 다운로드 API 제공
 
-### 3. Pipeline (Fontory\_Pipeline)
+### [3. Pipeline (Fontory\_Pipeline)](https://github.com/team-fontory/Fontory_Pipeline)
 
 * **기술 스택**: Python, FastAPI, PyTorch, OpenCV, Pillow, svgpathtools, fontTools(FontForge), Docker
 * **설명**:
