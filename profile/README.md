@@ -53,6 +53,11 @@ Fontory는 사용자의 손글씨를 입력 받아 개인화된 **TrueType 폰�
 | Pipeline | FastAPI, PyTorch, OpenCV, svgpathtools, fontTools, Docker |
 | Infra    | AWS (EC2, S3, SQS, Lambda, CloudFront), Grafana, Prometheus, Loki       |
 
+
+## 결과
+
+https://github.com/user-attachments/assets/59190e53-707c-47ae-8bdf-b4f3869062e7
+
 ---
 
 ## License
